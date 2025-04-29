@@ -1,5 +1,8 @@
 _repo: Uno-dei-Mille-della-spedizione-garibaldina-nel-Mezzodi-d-Italia-b-romanzo-storico_75660
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75660-h/images/cover.jpg
 creator:
   author:
     agent_name: Ottolini, V. (Vittore)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/58086
     wikipedia: https://it.wikipedia.org/wiki/Vittore_Ottolini
 description: 'Reading ease score: 45.2 (College-level). Difficult to read.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75660#Uno-dei-Mille-della-spedizione-garibaldina-nel-Mezzodi-d-Italia-b-romanzo-storico
 gutenberg_bookshelf:
 - 'Browsing: History - European'
 - 'Browsing: Fiction'
